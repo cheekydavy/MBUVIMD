@@ -12,7 +12,7 @@ Mbuvi MD is your WhatsApp sidekick, packed with features to make your chats pop!
 | **YouTube Downloader** | Download audio or video from YouTube in high quality 🎵📹   | `.play;.song;` |
 | **Auto-Like Status** | Automatically like friends’ WhatsApp statuses with a heart ❤️ | Config var        |
 | **Always Online**    | Keep your bot’s status green, 24/7 🌐                        | Config var        |
-| **All social media dl**    | Tiktok,ig,fb and yt🛠️ | `.fb;.tiktok;.ig;` |
+| **All social media dl**    | Tiktok,ig,fb and yt⬇🔽 | `.fb;.tiktok;.ig;` |
 | **Owner Commands**   | Exclusive controls for the bot owner to rule the chat 👑      | e.g., `.testowner`    |
 
 Join our [WhatsApp Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P) or follow us on [Instagram](https://www.instagram.com/_mbuvi_) for updates, tips, and community vibes! 🚀
@@ -24,7 +24,9 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 ### 1️⃣ Fork This Repo
 
 - Hit the **Fork** button below to copy this repo to your GitHub account. It’s your personal launchpad! 🚀
-  [![Fork Repo](https://img.shields.io/badge/Session-blue?logo=github)](https://github.com/cheekydavy/MBUVIMD/fork)
+
+  [![Fork Repo](https://img.shields.io/badge/FORK-blue?logo=github)](https://github.com/cheekydavy/MBUVIMD/fork)
+
 
 ### 2️⃣ Get Your Session ID
 
