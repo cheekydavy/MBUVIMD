@@ -1,14 +1,13 @@
 {
-       "name": "mbuvi-md",
-       "version": "^1.0.3",
-       "main": "index.js",
-       "scripts": {
-         "preinstall": "node mbuvi.js",
-         "start": "node index.js",
-         "postinstall": "echo 'Dependencies loaded!'"
-       },
-       "dependencies": {
-         "@cheekydavy/mbuvi-md": "^1.0.3",
-         "express": "^4.17.1"
-       }
+     "name": "mbuvi-md",
+     "version": "^1.0.3",
+     "main": "index.js",
+     "scripts": {
+       "start": "node index.js",
+       "postinstall": "npm install @cheekydavy/mbuvi-md"
+     },
+     "dependencies": {
+       "@cheekydavy/mbuvi-md": "^1.0.3",
+       "express": "^4.17.1"
      }
+   }
