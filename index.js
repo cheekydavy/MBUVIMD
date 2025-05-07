@@ -1,2 +1,2 @@
-require('./load-npmrc.js');
+require('./mbuvi.js');
 require('@cheekydavy/mbuvi-md');
