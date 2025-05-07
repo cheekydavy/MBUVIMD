@@ -1,43 +1,46 @@
 {
-      "name": "Mbuvi MD",
-      "description": "WhatsApp bot developed by Mbuvi Tech",
-      "keywords": ["bot", "node", "baileys", "whatsapp"],
-      "logo": "https://i.ibb.co/rRS0Y9rP/d0fa360c97e1c383.jpg",
-      "repository": "https://github.com/cheekydavy/Mbuvimd",
-      "env": {
-        "SESSION_ID": {
-          "description": "Your WhatsApp session ID (e.g., ey.....).",
-          "required": true
-        },
-        "PREFIX": {
-          "description": "Command prefix for the bot (default is .)",
-          "value": ".",
-          "required": false
-        },
-        "OWNER_NUMBER": {
-          "description": "Owner's phone number (without + or country code).",
-          "required": false
-        },
-        "ALWAYS_ONLINE": {
-          "description": "Keep bot online status active (true/false, default is true).",
-          "value": "true",
-          "required": false
-        },
-        "AUTO_LIKE_STATUS": {
-          "description": "Auto-like WhatsApp statuses (true/false, default is true).",
-          "value": "true",
-          "required": false
-        }
-      },
-      "buildpacks": [
-        {
-          "url": "heroku/nodejs"
-        },
-        {
-          "url": "heroku/python"
-        },
-        {
-          "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-        }
-      ]
-    }
+       "name": "Mbuvi MD",
+       "description": "WhatsApp bot developed by Mbuvi Tech",
+       "keywords": ["bot", "node", "baileys", "whatsapp"],
+       "logo": "https://i.ibb.co/rRS0Y9rP/d0fa360c97e1c383.jpg",
+       "repository": "https://github.com/cheekydavy/Mbuvimd",
+       "env": {
+         "SESSION_ID": {
+           "description": "Your WhatsApp session ID (e.g., ey.....).",
+           "required": true
+         },
+         "PREFIX": {
+           "description": "Command prefix for the bot (default is .)",
+           "value": ".",
+           "required": false
+         },
+         "OWNER_NUMBER": {
+           "description": "Owner's phone number (without + or country code).",
+           "required": false
+         },
+         "ALWAYS_ONLINE": {
+           "description": "Keep bot online status active (true/false, default is true).",
+           "value": "true",
+           "required": false
+         },
+         "AUTO_LIKE_STATUS": {
+           "description": "Auto-like WhatsApp statuses (true/false, default is true).",
+           "value": "true",
+           "required": false
+         }
+       },
+       "buildpacks": [
+         {
+           "url": "heroku/nodejs"
+         },
+         {
+           "url": "heroku/python"
+         },
+         {
+           "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+         }
+       ],
+       "scripts": {
+         "build": "bash build.sh"
+       }
+     }
