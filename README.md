@@ -83,8 +83,8 @@ Got issues? We’ve got your back! 💪
 
 With several forks and counting, Mbuvi MD is a movement! Connect with us:
 
-- 📱 [![Whatsapp group](https://img.shields.io/badge/Deploy-Heroku-green?logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
-- 📢 [WhatsApp Channel](https://img.shields.io/badge/Deploy-Heroku-green?logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
+- 📱 [![Whatsapp group](https://img.shields.io/badge/Deploy-Group-green?logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
+- 📢 [![WhatsApp Channel](https://img.shields.io/badge/Deploy-Channel-green?logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
 - 📸 [Instagram](https://www.instagram.com/_mbuvi_)
 - 👨‍💻 [Owner](https://wa.me/254746440595)
 
