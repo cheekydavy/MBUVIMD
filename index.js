@@ -1,1 +1,1 @@
-require('@cheekydavy/mbuvi-md');
+require('mbuvimd');
