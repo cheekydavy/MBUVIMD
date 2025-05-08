@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "xterior": "^1.0.9",
+    "xterior": "^1.0.11",
     "express": "^4.17.1"
   }
 }
