@@ -78,10 +78,10 @@ Got issues? We’ve got your back! 💪
 
 With several forks and counting, Mbuvi MD is a movement! Connect with us:
 
-- 📱  [![Whatsapp group](https://img.shields.io/badge/GROUP-aqua?logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
-- 📢 [![WhatsApp Channel](https://img.shields.io/badge/CHANNEL-aqua?logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
-- 📸  [![Instagram](https://img.shields.io/badge/FOLLOW-aqua?logo=instagram)](https://www.instagram.com/_mbuvi)
-- 👨‍💻  [![Owner](https://img.shields.io/badge/OWNER-aqua?logo=whatsapp)](https://wa.me/254746440595)
+- 📱  [![Whatsapp group](https://img.shields.io/badge/GROUP-black?logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
+- 📢 [![WhatsApp Channel](https://img.shields.io/badge/CHANNEL-black?logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
+- 📸  [![Instagram](https://img.shields.io/badge/FOLLOW-black?logo=instagram)](https://www.instagram.com/_mbuvi)
+- 👨‍💻  [![Owner](https://img.shields.io/badge/OWNER-black?logo=whatsapp)](https://wa.me/254746440595)
 
 **Powered by Mbuvi Tech ☬**  
 Let’s make WhatsApp epic together! Deploy now and unleash the power of Mbuvi MD! 🚀
