@@ -15,9 +15,8 @@ Mbuvi MD is your WhatsApp sidekick, packed with features to make your chats pop!
 | **All social media dl**    | Tiktok,ig,fb and yt⬇🔽 | `.fb;.tiktok;.ig;` |
 | **Owner Commands**   | Exclusive controls for the bot owner to rule the chat 👑      | e.g., `.testowner`    |
 
-Join our [WhatsApp Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P) or follow us on [Instagram](https://www.instagram.com/_mbuvi_) for updates, tips, and community vibes! 🚀
 
-## 🛠️ Deploy in 5 Easy Steps
+## 🛠️ Deploy in 4 Easy Steps
 
 No terminal, just a few clicks to get your bot live on Heroku! Follow these steps to deploy Mbuvi MD and start ruling WhatsApp.
 
@@ -55,8 +54,6 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
   - **OWNER_NUMBER**: Your phone number (e.g., `2547....`, no `+` or country code).
   - **ALWAYS_ONLINE**: `true` or `false` (default: `true`).
   - **AUTO_LIKE_STATUS**: `true` or `false` (default: `true`).
-  - **PRIVATE_REPO_TOKEN**: Your GitHub PAT from step 3.
-
   - Hit “Deploy Branch” in the “Deploy” tab, and Heroku will build your bot! 🛠️
 
 ### 🎉 Verify Your Bot
@@ -68,14 +65,12 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 ### 🛑 Troubleshooting
 
 Got issues? We’ve got your back! 💪
-
-- **Build Fails**: Verify `PRIVATE_REPO_TOKEN` has `read:packages` scope and you’re authorized to access. Contact the owner to get access.
 - **Bot Offline**: Ensure `SESSION_ID` is correct. Regenerate it at the session tool if needed.
 - **Need Help?** Join our [WhatsApp Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P) or DM the owner at [wa.me/254746440595](https://wa.me/254746440595).
 
 ## 🔥 Pro Tips
 
-- **Keep It Secret**: Never share `SESSION_ID` or `PRIVATE_REPO_TOKEN` publicly. They’re your bot’s keys! 🔑
+- **Keep It Secret**: Never share `SESSION_ID` publicly.🔑
 - **Stay Updated**: Redeploy your app to pull the latest Mbuvi MD features. Check our [WhatsApp Channel](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D) for news.
 - **Show Off**: Share your bot in our community and flex those `.menu2` buttons! 😎
 
@@ -83,10 +78,10 @@ Got issues? We’ve got your back! 💪
 
 With several forks and counting, Mbuvi MD is a movement! Connect with us:
 
-- 📱  [![Whatsapp group](https://img.shields.io/badge/Join-Group-green?logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
-- 📢 [![WhatsApp Channel](https://img.shields.io/badge/Join-Channel-green?logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
-- 📸  [![Instagram](https://img.shields.io/badge/Instagram-Handle-instagram?logo=instagram)](https://www.instagram.com/_mbuvi)
-- 👨‍💻  [![Owner](https://img.shields.io/badge/Text-owner-green?logo=whatsapp)](https://wa.me/254746440595)
+- 📱  [![Whatsapp group](https://img.shields.io/badge/Join-Group-aqua?logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
+- 📢 [![WhatsApp Channel](https://img.shields.io/badge/Join-Channel-aqua?logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
+- 📸  [![Instagram](https://img.shields.io/badge/Instagram-Handle-aqua?logo=instagram)](https://www.instagram.com/_mbuvi)
+- 👨‍💻  [![Owner](https://img.shields.io/badge/Text-owner-aqua?logo=whatsapp)](https://wa.me/254746440595)
 
 **Powered by Mbuvi Tech ☬**  
 Let’s make WhatsApp epic together! Deploy now and unleash the power of Mbuvi MD! 🚀
