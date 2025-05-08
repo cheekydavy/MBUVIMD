@@ -1,7 +1,7 @@
 {
      "name": "Mbuvi MD",
      "description": "WhatsApp bot developed by Mbuvi Tech",
-     "keywords": ["bot", "node", "baileys", "whatsapp"],
+     "keywords": ["wabot","bot", "node", "baileys", "whatsapp"],
      "logo": "https://i.ibb.co/rRS0Y9rP/d0fa360c97e1c383.jpg",
      "repository": "https://github.com/cheekydavy/Mbuvimd",
      "env": {
