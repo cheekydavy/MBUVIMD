@@ -27,10 +27,6 @@
          "description": "Auto-like WhatsApp statuses (true/false, default is true).",
          "value": "true",
          "required": false
-       },
-       "PRIVATE_REPO_TOKEN": {
-         "description": "GitHub Personal Access Token",
-         "required": true
        }
      },
      "buildpacks": [
