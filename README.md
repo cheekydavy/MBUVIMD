@@ -1,4 +1,4 @@
-# 🚀 Mbuvi MD - lightweight WhatsApp Bot!
+# 🚀 lightweight WhatsApp Bot!
 
 Welcome to **Mbuvi MD**, the ultimate WhatsApp bot powered by Mbuvi Tech! 🎉 With a thriving community, this bot brings interactive menus, YouTube downloads, auto-status likes, and more to your fingertips. Deploy your own instance on Heroku in minutes—no coding, no CLI, just pure browser-based magic! ✨
 
