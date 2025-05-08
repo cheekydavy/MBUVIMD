@@ -25,7 +25,7 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 
 - Hit the **Fork** button below to copy this repo to your GitHub account. It’s your personal launchpad! 🚀
 
-  [![Fork Repo](https://img.shields.io/badge/FORK-blue?logo=instagram)](https://github.com/cheekydavy/MBUVIMD/fork)
+  [![Fork Repo](https://img.shields.io/badge/FORK-blue?logo=github)](https://github.com/cheekydavy/MBUVIMD/fork)
 
 
 ### 2️⃣ Get Your Session ID
