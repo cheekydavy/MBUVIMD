@@ -1,1 +1,1 @@
-require('xxterior')
+require('xxterior');
