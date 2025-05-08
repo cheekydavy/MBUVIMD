@@ -36,13 +36,7 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 
 - Save it securely—you’ll need it soon!
 
-### 3️⃣ Create a GitHub Personal Access Token
-
-- Head to GitHub > Settings > Developer settings > Personal access tokens > Tokens (classic).
-- Generate a token with **read:packages** scope to access the private packages.
-- Copy the token (starts with `ghp_`) and keep it safe. No sharing! 🔒
-
-### 4️⃣ Deploy to Heroku
+### 3️⃣ Deploy to Heroku
 
 - Click the Heroku Button below to create your app in one click:
 
@@ -53,7 +47,7 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
   - In the “Deploy” tab, connect your forked repo (`your-username/MbuviMD`).
   - Enable **Automatic Deploys** for instant updates.
 
-### 5️⃣ Set Config Vars
+### 4️⃣  Set Config Vars
 
 - In your Heroku app’s “Settings” tab, add these config vars:
   - **SESSION_ID**: Your WhatsApp session ID from step 2.
@@ -63,25 +57,15 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
   - **AUTO_LIKE_STATUS**: `true` or `false` (default: `true`).
   - **PRIVATE_REPO_TOKEN**: Your GitHub PAT from step 3.
 
-- Example:
-  ```
-  SESSION_ID=ey...
-  PREFIX=.
-  OWNER_NUMBER=254746440595
-  ALWAYS_ONLINE=true
-  AUTO_LIKE_STATUS=true
-  PRIVATE_REPO_TOKEN=ghp_...
-  ```
+  - Hit “Deploy Branch” in the “Deploy” tab, and Heroku will build your bot! 🛠️
 
-- Hit “Deploy Branch” in the “Deploy” tab, and Heroku will build your bot! 🛠️
-
-## 🎉 Verify Your Bot
+### 🎉 Verify Your Bot
 
 - **Check Build Logs**: Open your Heroku app’s “Activity” tab or Dashboard to see the build process. Look for “Deployed successfully” and no errors.
 - **Test the Bot**: Send `.menu2` to your bot’s number. You should see a slick menu with buttons (or a text menu for Business accounts).
 - **Bot Not Responding?** Double-check your `SESSION_ID` (must be valid base64) and `PRIVATE_REPO_TOKEN` (needs `read:packages` scope).
 
-## 🛑 Troubleshooting
+### 🛑 Troubleshooting
 
 Got issues? We’ve got your back! 💪
 
@@ -99,8 +83,8 @@ Got issues? We’ve got your back! 💪
 
 With several forks and counting, Mbuvi MD is a movement! Connect with us:
 
-- 📱 [WhatsApp Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
-- 📢 [WhatsApp Channel](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
+- 📱 [![Whatsapp group](https://img.shields.io/badge/Deploy-Heroku-green?logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
+- 📢 [WhatsApp Channel](https://img.shields.io/badge/Deploy-Heroku-green?logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
 - 📸 [Instagram](https://www.instagram.com/_mbuvi_)
 - 👨‍💻 [Owner](https://wa.me/254746440595)
 
