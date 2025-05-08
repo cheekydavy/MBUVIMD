@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mbuvimd": "^1.0.7",
+    "xterior": "^1.0.9",
     "express": "^4.17.1"
   }
 }
