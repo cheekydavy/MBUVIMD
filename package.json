@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "ivubm": "^1.0.2",
+    "ivubm": "^1.0.0",
     "express": "^4.17.1"
   }
 }
