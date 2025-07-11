@@ -1,12 +1,12 @@
 {
-  "name": "mbuvi-md-public",
+  "name": "mbuvi-md",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "xxterior": "^1.0.12",
+    "xxterior": "^1.0.13",
     "express": "^4.17.1"
   }
 }
