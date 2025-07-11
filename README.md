@@ -2,20 +2,6 @@
 
 Welcome to **Mbuvi MD**, the ultimate WhatsApp bot powered by Mbuvi Tech 🎉 With a thriving community, this bot brings interactive menus, YouTube downloads, auto-status likes, and more to your fingertips. Deploy your own instance on Heroku in minutes—no coding, no CLI, just pure browser-based magic! ✨
 
-## 🌟 Why Mbuvi MD?
-
-Mbuvi MD is your WhatsApp sidekick, packed with features to make your chats pop! Here’s what you get:
-
-| **Feature**          | **Description**                                              | **Command**       |
-|----------------------|--------------------------------------------------------------|-------------------|
-| **Interactive Menu** | Sleek buttons or text menu to navigate commands with style 😎 | `.menu2`          |
-| **YouTube Downloader** | Download audio or video from YouTube in high quality 🎵📹   | `.play;.song;` |
-| **Auto-Like Status** | Automatically like friends’ WhatsApp statuses with a heart ❤️ | Config var        |
-| **Always Online**    | Keep your bot’s status green, 24/7 🌐                        | Config var        |
-| **All social media dl**    | Tiktok,ig,fb and yt⬇🔽 | `.fb;.tiktok;.ig;` |
-| **Owner Commands**   | Exclusive controls for the bot owner to rule the chat 👑      | e.g., `.testowner`    |
-
-
 ## 🛠️ Deploy in 4 Easy Steps
 
 No terminal, just a few clicks to get your bot live on Heroku! Follow these steps to deploy Mbuvi MD and start ruling WhatsApp.
@@ -31,13 +17,17 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 
 - Click below to generate your WhatsApp `SESSION_ID` (a base64-encoded key for bot authentication):
 
-  [![Get Session ID](https://img.shields.io/badge/Session-blue?logo=heroku)](https://mbuvi-md-pair-6a1316688343.herokuapp.com)
+  [![Get Session ID](htpps://sessions.mbuvitech.site)
 
 - Save it securely—you’ll need it soon!
 
-### 3️⃣ Deploy to Heroku
+### 3️⃣ Free Deploy
+- Click the Deploy Button below to create your app in one click:
 
-- Click the Heroku Button below to create your app in one click:
+  [![Free Deploy](https://img.shields.io/badge/Deploy-MBUVI-green?logo=MBUVI)](https://deploys.mbuvitech.site)
+
+
+- Alternatively Click the Heroku Button below to create your app :
 
   [![Deploy on Heroku](https://img.shields.io/badge/Deploy-Heroku-green?logo=heroku)](https://heroku.com/deploy?template=https://github.com/cheekydavy/MbuviMD)
 
@@ -59,8 +49,23 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 ### 🎉 Verify Your Bot
 
 - **Check Build Logs**: Open your Heroku app’s “Activity” tab or Dashboard to see the build process. Look for “Deployed successfully” and no errors.
-- **Test the Bot**: Send `.menu2` to your bot’s number. You should see a slick menu with buttons (or a text menu for Business accounts).
-- **Bot Not Responding?** Double-check your `SESSION_ID` (must be valid base64) and `PRIVATE_REPO_TOKEN` (needs `read:packages` scope).
+- **Test the Bot**: Send `.menu` to your bot’s number.
+- **Bot Not Responding?** Double-check your `SESSION_ID` (must be valid base64).
+
+## 🌟 Why Mbuvi MD?
+
+Mbuvi MD is your WhatsApp sidekick, packed with features to make your chats pop! Here’s what you get:
+
+| **Feature**          | **Description**                                              | **Command**       |
+|----------------------|--------------------------------------------------------------|-------------------|
+| **Interactive Menu** | Sleek buttons or text menu to navigate commands with style 😎 | `.menu2`          |
+| **YouTube Downloader** | Download audio or video from YouTube in high quality 🎵📹   | `.play;.song;` |
+| **Auto-Like Status** | Automatically like friends’ WhatsApp statuses with a heart ❤️ | Config var        |
+| **Always Online**    | Keep your bot’s status green, 24/7 🌐                        | Config var        |
+| **All social media dl**    | Tiktok,ig,fb and yt⬇🔽 | `.fb;.tiktok;.ig;` |
+| **Owner Commands**   | Exclusive controls for the bot owner to rule the chat 👑      | e.g., `.testowner`    |
+
+
 
 ### 🛑 Troubleshooting
 
@@ -72,7 +77,7 @@ Got issues? We’ve got your back! 💪
 
 - **Keep It Secret**: Never share `SESSION_ID` publicly.🔑
 - **Stay Updated**: Redeploy your app to pull the latest Mbuvi MD features. Check our [WhatsApp Channel](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D) for news.
-- **Show Off**: Share your bot in our community and flex those `.menu2` buttons! 😎
+- **Show Off**: Share your bot in our community and flex those `.menu` buttons! 😎
 
 ## 🤝 Join the Mbuvi MD Community
 
