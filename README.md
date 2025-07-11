@@ -17,7 +17,7 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 
 - Click below to generate your WhatsApp `SESSION_ID` (a base64-encoded key for bot authentication):
 
-  [![SESSION ID](https://img.shields.io/badge/Deploy-MBUVI-green?logo=MBUVI)](https://sessions.mbuvitech.site)
+  [![SESSION ID](https://img.shields.io/badge/SESSION-ID-green?logo=MBUVI)](https://sessions.mbuvitech.site)
 
 - Save it securely—you’ll need it soon!
 
