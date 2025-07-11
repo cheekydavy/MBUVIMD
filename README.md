@@ -21,10 +21,10 @@ No terminal, just a few clicks to get your bot live on Heroku! Follow these step
 
 - Save it securely—you’ll need it soon!
 
-### 3️⃣ Free Deploy
+### 3️⃣ Deployment
 - Click the Deploy Button below to create your app in one click:
 
-  [![Free Deploy](https://img.shields.io/badge/Deploy-MBUVI-green?logo=MBUVI)](https://deploys.mbuvitech.site)
+  [![Free Deploy](https://img.shields.io/badge/FREE-DEPLOY-green?logo=MBUVI)](https://deploys.mbuvitech.site)
 
 
 - Alternatively Click the Heroku Button below to create your app :
