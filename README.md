@@ -1,116 +1,39 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Mbuvi%20MD-WhatsApp%20Bot-green?style=for-the-badge&logo=whatsapp" alt="Mbuvi MD">
-</p>
+# 🚀 Mbuvi MD - WhatsApp Bot
 
-# 🚀 **Lightweight WhatsApp Bot: Mbuvi MD**
-
-Welcome to **Mbuvi MD**, the ultimate WhatsApp bot powered by **Mbuvi Tech** 🎉
-
-✨ With a thriving community, Mbuvi MD brings **interactive menus, YouTube downloads, auto-status likes, and more** to your fingertips.  
-✨ Deploy your own instance on Heroku in minutes—**no coding, no CLI, just pure browser-based magic!**
+**Mbuvi MD** is a lightweight WhatsApp bot with **interactive menus, YouTube downloads, and auto-status likes**. Deploy on **Heroku** in minutes, no coding needed!
 
 ---
 
-## 🛠️ Deploy in 4 Easy Steps
+## 🛠️ Quick Deploy
 
-✅ **No terminal needed. Just a few clicks to get your bot live on Heroku!**
+1️⃣ **Fork this repo**  
+[![Fork Repo](https://img.shields.io/badge/FORK-blue?logo=github)](https://github.com/cheekydavy/MBUVIMD/fork)
 
----
+2️⃣ **Generate `SESSION_ID`**  
+[![SESSION ID](https://img.shields.io/badge/GET-SESSION_ID-brightgreen?logo=keybase)](https://sessions.mbuvitech.site)
 
-### 1️⃣ Fork This Repo
-
-Hit **Fork** to copy this repo to your GitHub. It’s your personal launchpad! 🚀
-
-[![Fork Repo](https://img.shields.io/badge/FORK-Repo-blue?style=for-the-badge&logo=github)](https://github.com/cheekydavy/MBUVIMD/fork)
-
----
-
-### 2️⃣ Generate Your SESSION_ID
-
-Get your WhatsApp `SESSION_ID` for bot authentication:
-
-[![SESSION ID](https://img.shields.io/badge/GENERATE-SESSION_ID-brightgreen?style=for-the-badge&logo=keybase)](https://sessions.mbuvitech.site)
-
-> ⚠️ **Save it securely. You'll need it in the next step.**
+3️⃣ **Deploy Instantly**  
+[![Free Deploy](https://img.shields.io/badge/DEPLOY-green?logo=vercel)](https://deploys.mbuvitech.site)  
+or  
+[![Deploy on Heroku](https://img.shields.io/badge/Heroku-Deploy-purple?logo=heroku)](https://heroku.com/deploy?template=https://github.com/cheekydavy/MbuviMD)
 
 ---
 
-### 3️⃣ Deploy Instantly
+## ⚙️ Config Vars
 
-Deploy in **one click** using:
-
-[![Free Deploy](https://img.shields.io/badge/FREE-DEPLOY-green?style=for-the-badge&logo=vercel)](https://deploys.mbuvitech.site)
-
-or
-
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy-Heroku-purple?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/cheekydavy/MbuviMD)
-
-**Manual Deployment:**
-- Go to [Heroku Dashboard](https://dashboard.heroku.com) ➔ New ➔ Create new app.
-- Connect your **forked repo** (`your-username/MbuviMD`).
-- Enable **Automatic Deploys** for instant updates.
+- `SESSION_ID`: from step 2
+- `OWNER_NUMBER`: e.g., `2547XXXXXXX`
+- `PREFIX`: default `.`
+- `ALWAYS_ONLINE`: `true` or `false`
+- `AUTO_LIKE_STATUS`: `true` or `false`
 
 ---
 
-### 4️⃣ Configure Environment Variables
+## ✅ Usage
 
-In your Heroku app ➔ **Settings ➔ Reveal Config Vars**:
-
-| Key             | Value                                       |
-|-----------------|---------------------------------------------|
-| `SESSION_ID`    | Your session ID from step 2                |
-| `PREFIX`        | Command prefix (default: `.`)              |
-| `OWNER_NUMBER`  | Your phone number (e.g., `2547XXXXXXX`)    |
-| `ALWAYS_ONLINE` | `true` or `false` (default: `true`)        |
-| `AUTO_LIKE_STATUS` | `true` or `false` (default: `true`)    |
-
-Hit **Deploy Branch**, and Heroku will build your bot! 🛠️
+- Send `.menu` to test your bot.
+- Need help? [Contact Owner](https://wa.me/254746440595) or [Join Support Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P).
 
 ---
 
-## ✅ Verify Your Bot
-
-- Check **Heroku Build Logs** for “Deployed successfully” with no errors.
-- Test the bot by sending `.menu` to your bot's number.
-- If the bot is not responding:
-  - Double-check your `SESSION_ID`.
-  - Regenerate if necessary.
-
----
-
-## 🛑 Troubleshooting
-
-💡 **Bot Offline?** Ensure:
-- `SESSION_ID` is valid (base64-encoded).
-- Heroku dyno is running.
-
-💡 **Need Help?**
-- Join our [WhatsApp Support Group](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P).
-- DM the owner: [wa.me/254746440595](https://wa.me/254746440595).
-
----
-
-## 🔥 Pro Tips
-
-✅ **Keep your `SESSION_ID` secret**. Never share it publicly.  
-✅ **Stay updated** by redeploying to get the latest Mbuvi MD features.  
-✅ Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D) for updates.  
-✅ Share your bot’s `.menu` to showcase your deployment!
-
----
-
-## 🤝 Join the Mbuvi MD Community
-
-Join a growing community building and flexing their WhatsApp bots:
-
-- 📱 [![WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-black?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P)
-- 📢 [![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-black?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D)
-- 📸 [![Instagram](https://img.shields.io/badge/Follow-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/_mbuvi)
-- 👨‍💻 [![Contact Owner](https://img.shields.io/badge/DM-Owner-black?style=for-the-badge&logo=whatsapp)](https://wa.me/254746440595)
-
----
-
-<p align="center">
-  <strong>⚡ Powered by Mbuvi Tech ☬</strong><br>
-  Let’s make WhatsApp epic together! Deploy now and unleash Mbuvi MD! 🚀
-</p>
+**Powered by Mbuvi Tech ☬**
